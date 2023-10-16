@@ -29,19 +29,19 @@ h6,
   margin-top: 0;
 }
 
-@media (max-width:700px) {
+@media (max-width:412px) {
   #principal {
     font-size: 3vh !important;
   }
 }
 
-@media (max-width:900px) {
+@media (max-width:720px) {
   #principal {
     font-size: 4vh !important;
   }
 }
 
-@media (max-width:1279px) {
+@media (max-width:1024px) {
   #principal {
     font-size: 5vh !important;
   }
