@@ -35,7 +35,7 @@
       const form = document.getElementById("contact-us");
       const formData = new FormData(form);
 
-      fetch("https://send-contact-form-5d34c37f2cf4.herokuapp.com/", {
+      fetch("https://send-contact-form-5d34c37f2cf4.herokuapp.com/send", {
         method: "POST",
         body: formData
       })
