@@ -29,6 +29,15 @@ h6,
   margin-top: 0;
 }
 
+@media (max-height:880px) and (max-width:1279px) {
+  #principal {
+    font-size: 5vh !important;
+  }
+}
+
+
+
+
 a {
   color: #ff00cc;
   transition: all .3s ease-in-out;
